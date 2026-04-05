@@ -56,7 +56,7 @@ This enables better scheduling, resource allocation, and customer communication.
 ---
 
 ## 📊 Visualizations
-(Add images here)
+(https://github.com/MadukaEpasinghe/flight-delay-prediction/tree/main/Images)
 
 ---
 
